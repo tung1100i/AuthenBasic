@@ -1,13 +1,13 @@
-package com.example.authenbasic;
+package com.example.JavaTokenWeb_ver1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AuthenBasicApplication {
+public class JavaTokenWeb_ver1Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(AuthenBasicApplication.class, args);
+        SpringApplication.run(JavaTokenWeb_ver1Application.class, args);
     }
 
 }

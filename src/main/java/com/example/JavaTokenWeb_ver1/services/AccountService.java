@@ -1,7 +1,7 @@
-package com.example.authenbasic.services;
+package com.example.JavaTokenWeb_ver1.services;
 
-import com.example.authenbasic.entities.AccountEntity;
-import com.example.authenbasic.repositories.AccountRepo;
+import com.example.JavaTokenWeb_ver1.entities.AccountEntity;
+import com.example.JavaTokenWeb_ver1.repositories.AccountRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

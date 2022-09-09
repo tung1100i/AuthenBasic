@@ -1,4 +1,4 @@
-package com.example.authenbasic.entities;
+package com.example.JavaTokenWeb_ver1.entities;
 
 
 import lombok.AllArgsConstructor;
@@ -17,6 +17,7 @@ public class CategoryEntity  implements Serializable,Comparable<CategoryEntity> 
     @Id
     @Column(name = "categoryid")
     private String categoryid;
+
     private String name;
 
     @Override

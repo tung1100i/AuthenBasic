@@ -1,8 +1,8 @@
-package com.example.authenbasic.services;
+package com.example.JavaTokenWeb_ver1.services;
 
 
-import com.example.authenbasic.entities.CategoryEntity;
-import com.example.authenbasic.repositories.CategoryRepo;
+import com.example.JavaTokenWeb_ver1.entities.CategoryEntity;
+import com.example.JavaTokenWeb_ver1.repositories.CategoryRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.example.authenbasic.entities;
+package com.example.JavaTokenWeb_ver1.entities;
 
 
 import lombok.AllArgsConstructor;
