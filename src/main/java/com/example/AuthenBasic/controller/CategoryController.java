@@ -1,8 +1,8 @@
-package com.example.JavaTokenWeb_ver1.controller;
+package com.example.AuthenBasic.controller;
 
 
-import com.example.JavaTokenWeb_ver1.entities.CategoryEntity;
-import com.example.JavaTokenWeb_ver1.services.ICategoryService;
+import com.example.AuthenBasic.entities.CategoryEntity;
+import com.example.AuthenBasic.services.ICategoryService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

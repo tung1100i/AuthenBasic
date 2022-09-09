@@ -1,4 +1,4 @@
-package com.example.JavaTokenWeb_ver1.entities;
+package com.example.AuthenBasic.entities;
 
 
 import lombok.*;

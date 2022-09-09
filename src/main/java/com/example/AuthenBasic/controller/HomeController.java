@@ -1,4 +1,4 @@
-package com.example.JavaTokenWeb_ver1.controller;
+package com.example.AuthenBasic.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

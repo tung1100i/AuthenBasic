@@ -1,8 +1,8 @@
-package com.example.JavaTokenWeb_ver1.repositories;
+package com.example.AuthenBasic.repositories;
 
 
 
-import com.example.JavaTokenWeb_ver1.entities.CategoryEntity;
+import com.example.AuthenBasic.entities.CategoryEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

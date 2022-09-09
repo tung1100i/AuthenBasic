@@ -1,4 +1,4 @@
-package com.example.JavaTokenWeb_ver1;
+package com.example.AuthenBasic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

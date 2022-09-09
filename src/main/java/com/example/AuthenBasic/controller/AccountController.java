@@ -1,8 +1,8 @@
-package com.example.JavaTokenWeb_ver1.controller;
+package com.example.AuthenBasic.controller;
 
 
-import com.example.JavaTokenWeb_ver1.entities.AccountEntity;
-import com.example.JavaTokenWeb_ver1.services.IAccountService;
+import com.example.AuthenBasic.entities.AccountEntity;
+import com.example.AuthenBasic.services.IAccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

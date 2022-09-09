@@ -1,7 +1,7 @@
-package com.example.JavaTokenWeb_ver1.services;
+package com.example.AuthenBasic.services;
 
 
-import com.example.JavaTokenWeb_ver1.entities.AccountEntity;
+import com.example.AuthenBasic.entities.AccountEntity;
 
 import java.util.List;
 import java.util.Optional;

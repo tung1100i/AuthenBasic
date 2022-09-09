@@ -1,6 +1,6 @@
-package com.example.JavaTokenWeb_ver1.services;
+package com.example.AuthenBasic.services;
 
-import com.example.JavaTokenWeb_ver1.entities.CategoryEntity;
+import com.example.AuthenBasic.entities.CategoryEntity;
 
 
 import java.util.List;
